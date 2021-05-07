@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
